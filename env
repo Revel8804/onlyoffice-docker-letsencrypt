@@ -1,0 +1,5 @@
+LETSENCRYPT_EMAIL=kenny@revelcomtech.com
+LETSENCRYPT_HOST=office.revelcomtech.com
+VIRTUAL_HOST=office.revelcomtech.com
+NETWORK=webproxy
+ONLYOFFICE_DATA_PATH=/home/revel/docker/data/onlyoffice/
